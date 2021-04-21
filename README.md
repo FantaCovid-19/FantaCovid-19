@@ -1,10 +1,12 @@
 ### Hi there, I'm MrFantasma - 👋
+- 👤 My real name is a mystery.
+- 🎂 I'm 20 years old.
 
 ### I am a student of programming and development!
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
 - 🥅 2021 Goals: Finish my semesters of studies.
-- ⚡ Fun fact: I love video games.
+- ⚡ Fun fact: I love video games and programming.
 
 ### Connect with me:
 
