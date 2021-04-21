@@ -2,8 +2,8 @@
 
 ### I am a student of programming and development!
 
-- 🌱 I’m currently learning C# and C++
-- 🥅 2020 Goals: finish my semesters of studies.
+- 🌱 I’m currently learning Python
+- 🥅 2021 Goals: Finish my semesters of studies.
 - ⚡ Fun fact: I love video games.
 
 ### Connect with me:
