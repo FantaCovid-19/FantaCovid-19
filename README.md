@@ -32,6 +32,7 @@
 [<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-282C34?logo=Apache-NetBeans-IDE&logoColor=1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" />][tools]
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tools]
 
+### GitHub Stats:
 ![FantaCovid-19 GitHub stats](https://github-readme-stats.vercel.app/api?username=FantaCovid-19)
 
 
