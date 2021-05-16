@@ -12,15 +12,15 @@
 
 <a name="languages-next"></a>
 ### Languages:
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][languages]
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />][languages]
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][languages]
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=HTML5&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][languages]
-[<img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=007396" alt="Java logo" title="Java" height="25" />][languages]
+[<img src="https://img.shields.io/badge/HTML5-★★★-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][languages]
+[<img src="https://img.shields.io/badge/PHP-★-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" />][languages]
+[<img src="https://img.shields.io/badge/JavaScript-★★-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][languages]
+[<img src="https://img.shields.io/badge/Node.JS-★★★-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />][languages]
+[<img src="https://img.shields.io/badge/Java-★-282C34?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white" alt="Java logo" title="Java" height="25" />][languages]
 
 <a name="now-languages-next"></a>
 ### Now Learning:
-[<img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][now-languages]
+[<img src="https://img.shields.io/badge/Python-Learn-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" />][languages]
 
 <a name="tools-next"></a>
 ### Tools:
@@ -34,7 +34,7 @@
 
 <a name="stats-next"></a>
 ### GitHub Stats:
-[![FantaCovid-19 GitHub stats](https://github-readme-stats.vercel.app/api?username=FantaCovid-19)][next]
+[![FantaCovid-19 GitHub stats](https://github-readme-stats.vercel.app/api?username=FantaCovid-19)][next] <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantaCovid-19&hide=TeX&layout=compact)][next]
 
 [twitter]: https://twitter.com/MrFantasma
