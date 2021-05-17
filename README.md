@@ -27,13 +27,13 @@
 
 <a name="tools-next"></a>
 ### Tools:
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tools]
-[<img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032" alt="Git logo" title="Git" height="25" />][tools]
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=181717" alt="Git Hub logo" title="Git Hub" height="25" />][tools]
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" />][tools]
-[<img src="https://img.shields.io/badge/MariaDB-282C34?logo=MariaDB&logoColor=f39c12" alt="MariaDB logo" title="MariaDB" height="25" />][tools]
-[<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-282C34?logo=Apache-NetBeans-IDE&logoColor=1B6AC6" alt="NetBeans logo" title="NetBeans" height="25" />][tools]
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" />][tools]
+[<img src="https://img.shields.io/badge/VS%20Code-★★-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tools]
+[<img src="https://img.shields.io/badge/Git-★★★-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="Git logo" title="Git" height="25" />][tools]
+[<img src="https://img.shields.io/badge/GitHub-★★★-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />][tools]
+[<img src="https://img.shields.io/badge/MySQL-★★-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />][tools]
+[<img src="https://img.shields.io/badge/MariaDB-★★-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" />][tools]
+[<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-★★-282C34?labelColor=1B6AC6&logo=Apache-NetBeans-IDE&style=for-the-badge&logoColor=white" alt="NetBeans logo" title="NetBeans" height="25" />][tools]
+[<img src="https://img.shields.io/badge/Bootstrap-★★-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />][tools]
 
 <a name="stats-next"></a>
 ### GitHub Stats:
@@ -50,4 +50,3 @@
 [languages]: #languages-next
 [now-languages]: #now-languages-next
 [next]: #stats-next
-
