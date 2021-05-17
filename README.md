@@ -8,8 +8,10 @@
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
-[<img src="https://img.shields.io/badge/Twitch-Follow Me-282C34?labelColor=9146FF&logo=Twitch&style=for-the-badge&logoColor=white" alt="Twitch logo" title="Twitch" height="25" />][twitch]
 [<img src="https://img.shields.io/badge/Instagram-Follow Me-282C34?labelColor=E4405F&logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />][instagram]
+[<img src="https://img.shields.io/badge/Discord-!FantaCovid_19%236917-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white" alt="Discord logo" title="Discord" height="25" />][discord]
+[<img src="https://img.shields.io/badge/Twitch-Follow Me-282C34?labelColor=9146FF&logo=Twitch&style=for-the-badge&logoColor=white" alt="Twitch logo" title="Twitch" height="25" />][twitch]
+
 
 <a name="languages-next"></a>
 ### Languages:
@@ -41,7 +43,8 @@
 [twitter]: https://twitter.com/MrFantasma
 [youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
 [twitch]: https://www.twitch.tv/mrfantasma
-[instagram]:https://www.instagram.com/mrfantasma_/
+[instagram]: https://www.instagram.com/mrfantasma_/
+[discord]: !FantaCovid-19#6917
 
 [tools]: #tools-next
 [languages]: #languages-next
