@@ -1,10 +1,10 @@
 ### Hi there, I'm MrFantasma - 👋
-- 👤 My real name is a mystery.
-- 🎂 I'm 20 years old.
-- 🏫 I am a student of programming and development!
-- 🌱 I’m currently learning Python.
-- 🥅 2021 Goals: Completion of three and four semesters of studies.
-- ⚡ Fun fact: I love video games and programming.
+- 👤 My name is a total mystery.
+- 🎂 I am currently about 20 years old.
+- 🏫 I am currently studying as a programmer analyst.
+- 🌱 I am currently learning the Python language.
+- 🥅 Goal 2021: Finish my third and fourth semester of college.
+- ⚡ My hobbies: I like video games and programming random test stuff.
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
