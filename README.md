@@ -15,9 +15,9 @@
 <a name="languages-next"></a>
 ### Languages:
 [<img src="https://img.shields.io/badge/HTML5-★★★-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][languages]
-[<img src="https://img.shields.io/badge/PHP-★-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" />][languages]
-[<img src="https://img.shields.io/badge/JavaScript-★★-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][languages]
-[<img src="https://img.shields.io/badge/Node.JS-★★★-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />][languages]
+[<img src="https://img.shields.io/badge/PHP-★★-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" />][languages]
+[<img src="https://img.shields.io/badge/JavaScript-★-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][languages]
+[<img src="https://img.shields.io/badge/Node.JS-★★-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />][languages]
 [<img src="https://img.shields.io/badge/Java-★-282C34?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white" alt="Java logo" title="Java" height="25" />][languages]
 
 <a name="now-languages-next"></a>
@@ -26,7 +26,7 @@
 
 <a name="tools-next"></a>
 ### Tools:
-[<img src="https://img.shields.io/badge/VS%20Code-★★-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tools]
+[<img src="https://img.shields.io/badge/VS%20Code-★★★-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tools]
 [<img src="https://img.shields.io/badge/Git-★★★-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="Git logo" title="Git" height="25" />][tools]
 [<img src="https://img.shields.io/badge/GitHub-★★★-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />][tools]
 [<img src="https://img.shields.io/badge/MySQL-★★-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />][tools]
