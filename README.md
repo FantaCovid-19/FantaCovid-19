@@ -37,7 +37,7 @@
 <a name="stats-next"></a>
 ### GitHub Stats:
 [![FantaCovid-19 GitHub stats](https://github-readme-stats.vercel.app/api?username=FantaCovid-19)][next] <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantaCovid-19&hide=TeX&layout=compact)][next]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantaCovid-19&hide=TeX)][next]
 
 [twitter]: https://twitter.com/MrFantasma
 [youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
