@@ -28,4 +28,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
-          IGNORED_REPOS: "my-first-repo, my-first-repo-2"
+          IGNORED_REPOS: "waka-stats, my-first-repo-2"
