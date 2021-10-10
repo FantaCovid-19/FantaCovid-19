@@ -8,7 +8,7 @@
 
 ### Glad to see you here! 
 
-I am a final year student of Higher Level Technician - Programmer Analyst / Systems Analyst at the Technological University of Chile INACAP. I am someone who is always willing to learn new things and work across technologies. Currently I am dedicated to web development few times of another type.
+I am a final year student of Higher Level Technician - Programmer Analyst at the Technological University of Chile INACAP. I am someone who is always willing to learn new things and work across technologies. Currently I am dedicated to web development few times of another type.
 
 ### More about me:
 - 🤝 Open for collaborations in web development.
