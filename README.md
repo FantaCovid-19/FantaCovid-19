@@ -107,14 +107,13 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
 ⌚︎ Time Zone: America/Santiago
 
 💬 Programming Languages: 
-Java                     1 hr                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   70.74% 
-XML                      25 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.26%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 26 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+No Activity Tracked This Week
 
 ```
 
