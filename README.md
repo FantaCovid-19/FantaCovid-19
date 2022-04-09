@@ -28,7 +28,7 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
   <br />
   <a href="#"><img src="https://img.shields.io/badge/CSharp-★★-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
   <br />
-  <a href="#"><img src="https://img.shields.io/badge/Python-Now Learning 2021-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Now Learning 2022-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
 </details>
 <details>
   <summary><b>Frontend Development</b></summary>
