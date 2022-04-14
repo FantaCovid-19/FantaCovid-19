@@ -41,6 +41,7 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
 <details>
   <summary><b>Backend Developement</b></summary>
   <a href="#"><img src="https://img.shields.io/badge/Node.JS-★★-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.JS-★★-282C34?labelColor=339933&logo=Django&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></a>
 </details>
 <details>
   <summary><b>Databases</b></summary>
