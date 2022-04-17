@@ -120,7 +120,7 @@ Windows                  3 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 16/04/2022
+ Last Updated on 17/04/2022
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/MrFantasma
