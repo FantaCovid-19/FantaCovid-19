@@ -65,6 +65,8 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
   <a href="#"><img src="https://img.shields.io/badge/GitHub-★★★-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></a>
   <br />
   <a href="#"><img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-★★-282C34?labelColor=1B6AC6&logo=Apache-NetBeans-IDE&style=for-the-badge&logoColor=white" alt="NetBeans logo" title="NetBeans" height="25" /></a>
+  <br />
+  <a href="#"><img src="https://img.shields.io/badge/Docker-★-282C34?labelColor=#2496ED&logo=Docker&style=for-the-badge&logoColor=white" alt="Docker logo" title="Docker" height="25" /></a>
 </details>
 <details>
   <summary><b>Other</b></summary>
