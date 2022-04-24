@@ -146,7 +146,7 @@ Windows                  1 hr 45 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 23/04/2022
+ Last Updated on 24/04/2022
 <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/MrFantasma
