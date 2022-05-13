@@ -26,15 +26,16 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
     <br />
     <a href="#"><img src="https://img.shields.io/badge/CSharp-★★-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
     <br />
-    <a href="#"><img src="https://img.shields.io/badge/Python-Now Learning 2022-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/★-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
 </details>
 
 <details>
     <summary><b>Frontend Development</b></summary>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-★★★-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></a>
     <br />
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-★★-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-★★★-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></a>
     <br />
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-★★-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
 </details>
 
 <details>
@@ -57,11 +58,11 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
 
 <details>
     <summary><b>Backend as a Service (BaaS)</b></summary>
-    <a href="#"><img src="https://img.shields.io/badge/Firebase-★-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=black" alt="Firebase logo" title="Firebase" height="25" /></a>
-    <br />
     <a href="#"><img src="https://img.shields.io/badge/Heroku-★★-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
     <br />
     <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-★-282C34?labelColor=232F3E&logo=Amazon AWS&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
+    <br />
+    <a href="#"><img src="https://img.shields.io/badge/Firebase-★-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=black" alt="Firebase logo" title="Firebase" height="25" /></a>
 </details>
 
 <details>
@@ -71,6 +72,8 @@ I am a final year student of Higher Level Technician - Programmer Analyst at the
     <a href="#"><img src="https://img.shields.io/badge/Bootstrap-★★-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></a>
     <br />
     <a href="#"><img src="https://img.shields.io/badge/Material UI-★★-282C34?labelColor=007FFF&logo=MUI&style=for-the-badge&logoColor=white" alt="MUI logo" title="MUI" height="25" /></a>
+    <br />
+    <a href="#"><img src="https://img.shields.io/badge/FastAPI-★-282C34?labelColor=009688&logo=FastAPI&style=for-the-badge&logoColor=white" alt="FastAPI logo" title="FastAPI" height="25" /></a>
 </details>
 
 <details>
