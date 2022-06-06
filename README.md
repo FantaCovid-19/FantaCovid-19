@@ -139,3 +139,5 @@ CSS          1 hr 9 mins     ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [instagram]: https://www.instagram.com/mrfantasma_/
 [discord]: https://discordapp.com/users/311330684620898304/
 [gmail]: mailto:mrfantasmayt@gmail.com
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1d481830-3b96-4fbf-b183-e9157339363d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
