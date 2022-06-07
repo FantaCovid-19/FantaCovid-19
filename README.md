@@ -9,7 +9,7 @@
 
 ### Me alegro de verte aquí.
 
-Soy estudiante de último año de Técnico de Nivel Superior - Analista Programador en la Instituto Nacional de Capacitación Profesional (INACAP) de Chile. Soy una persona que siempre está dispuesta a aprender cosas nuevas y desarrollar en nuevas tecnologías. Actualmente me dedico al Desarrollo Web Full-Stack.
+Soy estudiante de último año de Técnico de Nivel Superior - Analista Programador en la Instituto Profesional INACAP de Chile. Soy una persona que siempre está dispuesta a aprender cosas nuevas y desarrollar en nuevas tecnologías. Actualmente me dedico al Desarrollo Web Full-Stack.
 
 ### Más información sobre mí:
 
