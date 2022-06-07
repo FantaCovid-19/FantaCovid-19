@@ -1,4 +1,4 @@
-## Hi, I am MrFantasma - 👋
+## Hola, Soy MrFantasma - 👋
 
 [<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
 [<img src="https://img.shields.io/badge/Instagram-Follow Me-282C34?labelColor=E4405F&logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />][instagram]
@@ -104,7 +104,7 @@ Soy estudiante de último año de Técnico de Nivel Superior - Analista Programa
   <summary><b>⚡ Github Stats:</b></summary>
   <a href="#"><p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&locale=en&hide_border=true" /></p></a>
   <br />
-  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&show_icons=true&locale=en&layout=compact&langs_count=4&hide_border=true&hide=c" /></a>
+  <a href="#"><p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&show_icons=true&locale=en&layout=compact&langs_count=4&hide_border=true&hide=c" /></p></a>
 </details>
 
 <details>
