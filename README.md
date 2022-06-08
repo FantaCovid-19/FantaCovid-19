@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
 [<img src="https://img.shields.io/badge/Instagram-Follow Me-282C34?labelColor=E4405F&logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />][instagram]
-[<img src="https://img.shields.io/badge/Gmail-Contact Me-282C34?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />][gmail]
+[<img src="https://img.shields.io/badge/Gmail-Contactame-282C34?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />][gmail]
 <br />
 [<img src="https://img.shields.io/badge/Twitch-Follow Me-282C34?labelColor=9146FF&logo=Twitch&style=for-the-badge&logoColor=white" alt="Twitch logo" title="Twitch" height="25" />][twitch]
 [<img src="https://img.shields.io/badge/Discord-!FantaCovid_19%236917-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white" alt="Discord logo" title="Discord" height="25" />][discord]
@@ -103,7 +103,6 @@ Soy estudiante de último año de Técnico de Nivel Superior - Analista Programa
 <details>
   <summary><b>⚡ Github Stats:</b></summary>
   <a href="#"><p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&locale=en&hide_border=true" /></p></a>
-  <br />
   <a href="#"><p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&show_icons=true&locale=en&layout=compact&langs_count=4&hide_border=true&hide=c" /></p></a>
 </details>
 
