@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: ${{ secrets.WAKA_API_URL }}
+          API_BASE_URL: http://codetime.mrfantasma.com:3000/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
