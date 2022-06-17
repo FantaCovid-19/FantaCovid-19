@@ -2,6 +2,8 @@ name: WakaTime
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.wakatime.svg
+  token: NOT_NEEDED
+  base: ""
   plugin_wakatime: yes
   plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
   plugin_wakatime_days: 7
