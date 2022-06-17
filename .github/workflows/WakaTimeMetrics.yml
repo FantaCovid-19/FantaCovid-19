@@ -1,4 +1,9 @@
 name: WakaTime
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.wakatime.svg
