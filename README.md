@@ -142,4 +142,4 @@ HTML         58 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [twitch]: https://www.twitch.tv/mrfantasma
 [instagram]: https://www.instagram.com/mrfantasma_/
 [discord]: https://discordapp.com/users/311330684620898304/
-[gmail]: mailto:mrfantasmayt@gmail.com
+[gmail]: mailto:contact@mrfantasma.com
