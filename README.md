@@ -120,15 +120,7 @@ Soy estudiante de último año de Técnico de Nivel Superior - Analista Programa
 
 ## 💻 Coding activity
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100">
+<img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="500">
 
 [twitter]: https://twitter.com/MrFantasma
 [youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
