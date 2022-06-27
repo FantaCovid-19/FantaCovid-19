@@ -1,4 +1,4 @@
-name: Metrics
+name: WakaTime
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -15,5 +15,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_APIKEY }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          
