@@ -128,6 +128,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 [twitter]: https://twitter.com/MrFantasma
 [youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
 [twitch]: https://www.twitch.tv/mrfantasma
