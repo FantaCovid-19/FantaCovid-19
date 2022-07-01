@@ -120,6 +120,8 @@ Soy estudiante de último año de Técnico de Nivel Superior - Analista Programa
 
 ## 💻 Coding activity
 
+[![FantaCovid-19 Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFantasma&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding%20Week%20Stats&layout=compact)](https://github.com/FantaCovid-19/)
+
 <img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="500">
 
 [twitter]: https://twitter.com/MrFantasma
