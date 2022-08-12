@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkportafolio"]=self["webpackChunkportafolio"]||[]).push([[513],{3513:function(l,u,o){o.r(u);var e,n,t=o(1001),a={},f=(0,t.Z)(a,e,n,!1,null,null,null);u["default"]=f.exports}}]);
+//# sourceMappingURL=513.58f4365e.js.map
