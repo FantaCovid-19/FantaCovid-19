@@ -2,7 +2,7 @@
 
 ### Me alegro de verte aquí.
 
-Soy Técnico Analista Programador en el Centro de Formación Técnica INACAP de Chile. Soy una persona que siempre está dispuesta a aprender cosas nuevas y desarrollar en nuevas tecnologías. Actualmente me dedico al Desarrollo Web Full-Stack. Con la Metodología Ágil Extreme Programming (XP) y Scrum.
+Soy Técnico Analista Programador en el Centro de Formación Técnica INACAP de Chile. Soy una persona que siempre está dispuesta a aprender cosas nuevas y desarrollar en nuevas tecnologías. Actualmente me dedico al Desarrollo Web Full-Stack. Con la Metodología Ágil Extreme Programming (XP) y Kanban.
 
 ### Más información sobre mí:
 
