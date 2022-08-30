@@ -22,34 +22,33 @@ Soy Técnico Analista Programador en el Centro de Formación Técnica INACAP de 
 ## 🛠 My Tech Stack:
 
 <h4>Front-End Development:</h4>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
 
 <h4>Back-End Developement:</h4>
-  <a href="#"><img src="https://img.shields.io/badge/Node.JS-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.JS logo" title="Node.JS" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.JS-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.JS logo" title="Node.JS" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PHP-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" /></a>
 
 <h4>Databases:</h4>
-  <a href="#"><img src="https://img.shields.io/badge/MariaDB-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MariaDB-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></a>
 
 <h4>Backend as a Service (BaaS):</h4>
-  <a href="#"><img src="https://img.shields.io/badge/Heroku-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-282C34?labelColor=232F3E&logo=Amazon AWS&style=for-the-badge&logoColor=white" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=white" alt="Firebase logo" title="Firebase" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-282C34?labelColor=2496ED&logo=Docker&style=for-the-badge&logoColor=white" alt="Docker logo" title="Docker" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Heroku-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Amazon AWS-282C34?labelColor=232F3E&logo=Amazon AWS&style=for-the-badge&logoColor=white" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Firebase-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=white" alt="Firebase logo" title="Firebase" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-282C34?labelColor=2496ED&logo=Docker&style=for-the-badge&logoColor=white" alt="Docker logo" title="Docker" height="25" /></a>
 
 <h4>Frameworks:</h4>
-  <a href="#"><img src="https://img.shields.io/badge/React.JS-282C34?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white" alt="React.JS logo" title="React.JS" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux-282C34?labelColor=764ABC&logo=Redux&style=for-the-badge&logoColor=white" alt="Redux logo" title="Redux" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Material UI-282C34?labelColor=007FFF&logo=MUI&style=for-the-badge&logoColor=white" alt="MUI logo" title="MUI" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/React.JS-282C34?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white" alt="React.JS logo" title="React.JS" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Redux-282C34?labelColor=764ABC&logo=redux&style=for-the-badge&logoColor=white" alt="Redux logo" title="Redux" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Material UI-282C34?labelColor=007FFF&logo=MUI&style=for-the-badge&logoColor=white" alt="MUI logo" title="MUI" height="25" /></a>
 
 <h4>Lenguajes de Programación:</h4>
-  <a href="#"><img src="https://img.shields.io/badge/CSharp-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-282C34?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white" alt="Java logo" title="Java" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSharp-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
 
 <h4>Herramientas:</h4>
 <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></a>
@@ -64,7 +63,7 @@ Soy Técnico Analista Programador en el Centro de Formación Técnica INACAP de 
 <a href="#"><img src="https://img.shields.io/badge/Arch Linux-282C34?labelColor=1793D1&logo=Arch Linux&style=for-the-badge&logoColor=white" alt="Arch Linux logo" title="Arch Linux" height="25" /></a>
 
 <h4>Aprendiendo Actualmente:</h4>
- <a href="#"><img src="https://img.shields.io/badge/Python-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
 
 ## ℹ️ Github Info
 
@@ -81,8 +80,6 @@ Soy Técnico Analista Programador en el Centro de Formación Técnica INACAP de 
 ## 💻 Coding activity
 
 [![FantaCovid-19 Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFantasma&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding%20Week%20Stats&layout=compact)](https://github.com/FantaCovid-19/)
-
-<img align="center" src="/metrics.plugin.wakatime.svg" alt="Metrics" width="500">
 
 <hr />
 
