@@ -1,94 +1,134 @@
-## Hola, Soy MrFantasma - 👋
+# Hola, Soy MrFantasma - 👋
 
-### Me alegro de verte aquí.
+## 📝 Sobre mí
 
-Soy Técnico Analista Programador titulado del Centro de Formación Técnica INACAP de Chile. Soy una persona que siempre está dispuesta a aprender cosas nuevas y desarrollar en nuevas tecnologías. Actualmente me dedico al Desarrollo Web Full-Stack. Con la Metodología Ágil Extreme Programming (XP) y Kanban.
+**!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 22 años** de edad y vivo en **Concepción, Chile**. Actualmente, cuento con una formación **Técnica en el área de Analista Programador**.
 
-### Más información sobre mí:
+Me encanta programar y estar al tanto de la últimas novedades tecnológicas. Aunque distruto tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
 
-- 🤝 Abierto a colaboraciones Open Source y Desarrollo Web.
+Mi especialización se centra en el **Desarrollo de Web y Micro Servicios**, además de administrar servidores tanto Windows Server como Linux Server. En la actualidad, estoy inmerso en el mundo del desarrollo utilizando el framework de **NodeJS (Express.JS)** junto con los lenguajes de programación **TypeScript** y **JavaScript**.
+
+### Más información sobre mí
+
+- 🤝 Abierto a colaboraciones **Open Source** y **Proyectos Privados**.
 - 💻 Me encanta explorar nuevas tecnologías o nuevas formas de realizar las cosas.
 - 🎮 Me encanta jugar videojuegos y leer.
-- 🌐 Visita el sitio web de mi portafolio para ver el historial completo y mis contactos.
-- 📝 Ver mi curriculum vitae.
+- 🌐 Visita mi [portafolio](https://mrfantasma.com/) para ver el historial completo y mis contactos.
+- 📝 Ver mi [curriculum vitae](https://mrfantasma.com/files/CV_MrFantasma.pdf).
 
-## 🌐 Redes Sociales:
-[<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
-[<img src="https://img.shields.io/badge/Instagram-Follow Me-282C34?labelColor=E4405F&logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />][instagram]
-[<img src="https://img.shields.io/badge/Gmail-Contact Me-282C34?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />][gmail]
-[<img src="https://img.shields.io/badge/Twitch-Follow Me-282C34?labelColor=9146FF&logo=Twitch&style=for-the-badge&logoColor=white" alt="Twitch logo" title="Twitch" height="25" />][twitch]
-[<img src="https://img.shields.io/badge/Discord-!FantaCovid_19%236917-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white" alt="Discord logo" title="Discord" height="25" />][discord]
+### 🌐 Redes Sociales
 
-## 🛠 My Tech Stack:
+![Twitter Follow](https://img.shields.io/twitter/follow/MrFantasma?color=1DA1F2&label=Follow%20Me%20on%20Twitter&logo=Twitter&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa8hPzviP77EYuasiuq3nGw?color=FF0000&label=Subscribe%20Me%20on%20YouTube&logo=YouTube&style=for-the-badge)
+![Twitch Status](https://img.shields.io/twitch/status/mrfantasma?color=9146FF&label=Follow%20Me%20on%20Twitch&logo=Twitch&style=for-the-badge)
 
-<h4>Front-End Development:</h4>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
+<!-- ![Discord](https://img.shields.io/discord/idServer?color=7289DA&label=Join%20My%20Discord%20Server&logo=Discord&style=for-the-badge) -->
 
-<h4>Back-End Developement:</h4>
-<a href="#"><img src="https://img.shields.io/badge/Node.JS-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.JS logo" title="Node.JS" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" /></a>
+## 🛠 My Tech Stack
 
-<h4>Databases:</h4>
-<a href="#"><img src="https://img.shields.io/badge/MariaDB-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></a>
+### Front-End Developement
 
-<h4>Backend as a Service (BaaS):</h4>
-<a href="#"><img src="https://img.shields.io/badge/Heroku-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Amazon AWS-282C34?labelColor=232F3E&logo=Amazon AWS&style=for-the-badge&logoColor=white" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=white" alt="Firebase logo" title="Firebase" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-282C34?labelColor=2496ED&logo=Docker&style=for-the-badge&logoColor=white" alt="Docker logo" title="Docker" height="25" /></a>
+![HTML5 Logo](https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white)
+![CSS3 Logo](https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)
 
-<h4>Frameworks:</h4>
-<a href="#"><img src="https://img.shields.io/badge/React.JS-282C34?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white" alt="React.JS logo" title="React.JS" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Redux-282C34?labelColor=764ABC&logo=redux&style=for-the-badge&logoColor=white" alt="Redux logo" title="Redux" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Material UI-282C34?labelColor=007FFF&logo=MUI&style=for-the-badge&logoColor=white" alt="MUI logo" title="MUI" height="25" /></a>
+### Front-End Frameworks
 
-<h4>Lenguajes de Programación:</h4>
-<a href="#"><img src="https://img.shields.io/badge/CSharp-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
+![Astro Logo](https://img.shields.io/badge/Astro-282C34?labelColor=BC52EE&logo=Astro&style=for-the-badge&logoColor=white)
+![React.JS Logo](https://img.shields.io/badge/React.JS-282C34?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white)
+![Next.JS Logo](https://img.shields.io/badge/Next.JS-282C34?labelColor=000000&logo=Nextdotjs&style=for-the-badge&logoColor=white)
 
-<h4>Herramientas:</h4>
-<a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="Git logo" title="Git" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitKraken-282C34?labelColor=179287&logo=GitKraken&style=for-the-badge&logoColor=white" alt="GitKraken logo" title="GitKraken" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Notion-282C34?labelColor=000000&logo=Notion&style=for-the-badge&logoColor=white" alt="Notion logo" title="Notion" height="25" /></a>
+### Back-End Developement
 
-<h4>OS:</h4>
-<a href="#"><img src="https://img.shields.io/badge/Windows-282C34?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white" alt="Windows logo" title="Windows" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Ubuntu-282C34?labelColor=E95420&logo=Ubuntu&style=for-the-badge&logoColor=white" alt="Ubuntu logo" title="Ubuntu" height="25" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Arch Linux-282C34?labelColor=1793D1&logo=Arch Linux&style=for-the-badge&logoColor=white" alt="Arch Linux logo" title="Arch Linux" height="25" /></a>
+![TypeScript Logo](https://img.shields.io/badge/TypeScript-282C34?labelColor=3178C6&logo=TypeScript&style=for-the-badge&logoColor=white)
+![JavaScript Logo](https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white)
 
-<h4>Aprendiendo Actualmente:</h4>
-<a href="#"><img src="https://img.shields.io/badge/Python-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
+### Back-End Frameworks
+
+![Node.JS Logo](https://img.shields.io/badge/Node.JS-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white)
+![Express.JS Logo](https://img.shields.io/badge/Express.JS-282C34?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)
+
+### Databases
+
+![MariaDB Logo](https://img.shields.io/badge/MariaDB-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)
+![MySQL Logo](https://img.shields.io/badge/MySQL-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white)
+![MongoDB Logo](https://img.shields.io/badge/MongoDB-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)
+![Posgress SQL Logo](https://img.shields.io/badge/PostgreSQL-282C34?labelColor=4169E1&logo=postgresql&style=for-the-badge&logoColor=white)
+
+### Database ORM
+
+![Prisma Logo](https://img.shields.io/badge/Prisma-282C34?labelColor=2D3748&logo=prisma&style=for-the-badge&logoColor=white)
+
+### DevOps
+
+![Git Logo](https://img.shields.io/badge/Git-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white)
+![GitHub Logo](https://img.shields.io/badge/GitHub-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white)
+![GitHub Actions Logo](https://img.shields.io/badge/GitHub%20Actions-282C34?labelColor=2088FF&logo=GitHub%20Actions&style=for-the-badge&logoColor=white)
+
+### Cloud
+
+![Heroku Logo](https://img.shields.io/badge/Heroku-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white)
+![Amazon AWS Logo](https://img.shields.io/badge/Amazon%20AWS-282C34?labelColor=232F3E&logo=Amazon%20AWS&style=for-the-badge&logoColor=white)
+![Google Cloud Logo](https://img.shields.io/badge/Google%20Cloud-282C34?labelColor=4285F4&logo=Google%20Cloud&style=for-the-badge&logoColor=white)
+![Firebase Logo](https://img.shields.io/badge/Firebase-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=white)
+![Docker Logo](https://img.shields.io/badge/Docker-282C34?labelColor=2496ED&logo=Docker&style=for-the-badge&logoColor=white)
+
+### Testing
+
+![Jest Logo](https://img.shields.io/badge/Jest-282C34?labelColor=C21325&logo=Jest&style=for-the-badge&logoColor=white)
+
+### IDE
+
+![Visual Studio Code Logo](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?labelColor=007ACC&logo=Visual%20Studio%20Code&style=for-the-badge&logoColor=white)
+
+### Design
+
+![Figma Logo](https://img.shields.io/badge/Figma-282C34?labelColor=F24E1E&logo=Figma&style=for-the-badge&logoColor=white)
+![Adobe XD Logo](https://img.shields.io/badge/Adobe%20XD-282C34?labelColor=FF61F6&logo=Adobe%20XD&style=for-the-badge&logoColor=white)
+
+### Tools
+
+![Postman Logo](https://img.shields.io/badge/Postman-282C34?labelColor=FF6C37&logo=Postman&style=for-the-badge&logoColor=white)
+![Insomnia Logo](https://img.shields.io/badge/Insomnia-282C34?labelColor=5849BE&logo=Insomnia&style=for-the-badge&logoColor=white)
+![Notion Logo](https://img.shields.io/badge/Notion-282C34?labelColor=000000&logo=Notion&style=for-the-badge&logoColor=white)
+![Slack Logo](https://img.shields.io/badge/Slack-282C34?labelColor=4A154B&logo=Slack&style=for-the-badge&logoColor=white)
+![Discord Logo](https://img.shields.io/badge/Discord-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white)
+![GitKraken Logo](https://img.shields.io/badge/GitKraken-282C34?labelColor=179287&logo=GitKraken&style=for-the-badge&logoColor=white)
+
+### OS
+
+![Windows Logo](https://img.shields.io/badge/Windows-282C34?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white)
+![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-282C34?labelColor=E95420&logo=Ubuntu&style=for-the-badge&logoColor=white)
+![Arch Linux Logo](https://img.shields.io/badge/Arch%20Linux-282C34?labelColor=1793D1&logo=Arch%20Linux&style=for-the-badge&logoColor=white)
+
+### Other
+
+![Markdown Logo](https://img.shields.io/badge/Markdown-282C34?labelColor=000000&logo=Markdown&style=for-the-badge&logoColor=white)
+![JSON Logo](https://img.shields.io/badge/JSON-282C34?labelColor=000000&logo=JSON&style=for-the-badge&logoColor=white)
+![YAML Logo](https://img.shields.io/badge/YAML-282C34?labelColor=000000&logo=YAML&style=for-the-badge&logoColor=white)
+![NPM Logo](https://img.shields.io/badge/NPM-282C34?labelColor=CB3837&logo=NPM&style=for-the-badge&logoColor=white)
+![Yarn Logo](https://img.shields.io/badge/Yarn-282C34?labelColor=2C8EBB&logo=Yarn&style=for-the-badge&logoColor=white)
+![Prettier Logo](https://img.shields.io/badge/Prettier-282C34?labelColor=F7B93E&logo=Prettier&style=for-the-badge&logoColor=white)
+![ESLint Logo](https://img.shields.io/badge/ESLint-282C34?labelColor=4B32C3&logo=ESLint&style=for-the-badge&logoColor=white)
 
 ## ℹ️ Github Info
 
-<h4>⚡ Github Stats:</h4>
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&locale=en&hide_border=true" /></a>
-<a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&show_icons=true&locale=en&layout=compact&langs_count=4&hide_border=true&hide=c" /></a>
+### 📊 Profile Stats
 
-<h4>🔥 Github Streaks:</h4>
-<a href="#"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fantacovid-19" alt="fantacovid-19" /></a>
+![FantaCovid-19's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&theme=radical)
 
-<h4>🏆 Github Achievements:</h4>
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=fantacovid-19&margin-w=5" alt="fantacovid-19" /></a>
+### 📊 Most Used Languages
 
-## 💻 Coding activity
+![FantaCovid-19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantacovid-19&layout=compact&theme=radical)
 
-[![FantaCovid-19 Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFantasma&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding%20Week%20Stats&layout=compact)](https://github.com/FantaCovid-19/)
+### 📊 Streak Stats
 
-<hr />
+![FantaCovid-19's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantacovid-19&theme=radical)
 
-[<img src="https://komarev.com/ghpvc/?username=fantacovid-19&label=Profile%20views&color=0e75b6&style=flat" alt="fantacovid-19" />][none]
+### 📊 Achievements
 
-[twitter]: https://twitter.com/MrFantasma
-[youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
-[twitch]: https://www.twitch.tv/mrfantasma
-[instagram]: https://www.instagram.com/mrfantasma_/
-[discord]: https://discordapp.com/users/311330684620898304/
-[gmail]: mailto:contact@mrfantasma.com
-[none]: #
+![FantaCovid-19's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fantacovid-19&theme=radical)
+
+### 📊 Wakatime Stats
+
+![FantaCovid-19's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFantasma&theme=radical&layout=compact&langs_count=6&custom_title=My%20Wakatime%20Stats)
