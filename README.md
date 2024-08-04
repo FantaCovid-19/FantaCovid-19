@@ -28,9 +28,9 @@ Mi especialización se centra en el **Desarrollo de Web y Microservicios**, adem
 
 ### Front-End Developement
 
-[![HTML5 Logo](https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](#Front-End-Developement)
-[![JavaScript Logo](https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white)](#Front-End-Developement)
-[![CSS3 Logo](https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](#Front-End-Developement)
+[![HTML5 Logo](https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](#front-end-developement)
+[![JavaScript Logo](https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white)](#front-end-developement)
+[![CSS3 Logo](https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](#front-end-developement)
 
 ### Front-End Frameworks
 
