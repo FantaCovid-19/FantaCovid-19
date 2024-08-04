@@ -18,9 +18,9 @@ Mi especialización se centra en el **Desarrollo de Web y Microservicios**, adem
 
 ### 🌐 Redes Sociales
 
-[![X Follow](https://img.shields.io/twitter/follow/MrFantasma?style=for-the-badge&logo=X)](https://x.com/MrFantasma)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa8hPzviP77EYuasiuq3nGw?color=FF0000&label=Subscribe%20Me%20on%20YouTube&logo=YouTube&style=for-the-badge)](https://www.youtube.com/@Mr.Fantasma)
-[![Twitch Status](https://img.shields.io/twitch/status/mrfantasma?color=9146FF&label=Follow%20Me%20on%20Twitch&logo=Twitch&style=for-the-badge)](https://www.twitch.tv/mrfantasma)
+[![X Follow](https://img.shields.io/twitter/follow/MrFantasma?labelColor=282C34&style=for-the-badge&logo=X)](https://x.com/MrFantasma)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa8hPzviP77EYuasiuq3nGw?color=FF0000&label=Subscribe%20Me%20on%20YouTube&logo=YouTube&style=for-the-badge&labelColor=282C34)](https://www.youtube.com/@Mr.Fantasma)
+[![Twitch Status](https://img.shields.io/twitch/status/mrfantasma?color=9146FF&label=Follow%20Me%20on%20Twitch&logo=Twitch&labelColor=282C34&style=for-the-badge)](https://www.twitch.tv/mrfantasma)
 
 <!-- ![Discord](https://img.shields.io/discord/idServer?color=7289DA&label=Join%20My%20Discord%20Server&logo=Discord&style=for-the-badge) -->
 
