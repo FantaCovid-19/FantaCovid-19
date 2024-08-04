@@ -4,9 +4,9 @@
 
 **!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 23 años** de edad y vivo en **Concepción, Chile**. Actualmente, cuento con una formación **Técnica en Informática**.
 
-Me encanta programar y estar al tanto de la últimas novedades tecnológicas. Aunque distruto tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
+Me encanta programar y estar al tanto de las últimas novedades tecnológicas. Aunque disfrutó tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
 
-Mi especialización se centra en el **Desarrollo de Web y Micro Servicios**, además de administrar servidores tanto Windows Server como Linux Server. En la actualidad, estoy inmerso en el mundo del desarrollo utilizando el framework de **NodeJS (Express.JS)** junto con los lenguajes de programación **TypeScript** y **JavaScript**.
+Mi especialización se centra en el **Desarrollo de Web y Microservicios**, además de administrar servidores tanto Windows Server como Linux Server. En la actualidad, estoy inmerso en el mundo del desarrollo utilizando el framework de **Node.JS (Express.JS)** junto con los lenguajes de programación **TypeScript** y **JavaScript**.
 
 ### Más información sobre mí
 
@@ -17,6 +17,8 @@ Mi especialización se centra en el **Desarrollo de Web y Micro Servicios**, ade
 - 📝 Ver mi [curriculum vitae](https://mrfantasma.com/files/CV_MrFantasma.pdf).
 
 ### 🌐 Redes Sociales
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MrFantasma?style=for-the-badge&logo=X&link=https%3A%2F%2Fx.com%2FMrFantasma)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MrFantasma?color=1DA1F2&label=Follow%20Me%20on%20Twitter&logo=Twitter&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa8hPzviP77EYuasiuq3nGw?color=FF0000&label=Subscribe%20Me%20on%20YouTube&logo=YouTube&style=for-the-badge)
