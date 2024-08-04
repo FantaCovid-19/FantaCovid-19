@@ -2,7 +2,7 @@
 
 ## 📝 Sobre mí
 
-**!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 22 años** de edad y vivo en **Concepción, Chile**. Actualmente, cuento con una formación **Técnica en el área de Analista Programador**.
+**!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 23 años** de edad y vivo en **Concepción, Chile**. Actualmente, cuento con una formación **Técnica en Informática**.
 
 Me encanta programar y estar al tanto de la últimas novedades tecnológicas. Aunque distruto tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
 
