@@ -1,133 +1,146 @@
-## Hi, I am MrFantasma - 👋
-[<img src="https://img.shields.io/badge/Twitter-Follow Me-282C34?labelColor=1DA1F2&logo=Twitter&style=for-the-badge&logoColor=white" alt="Twitter logo" title="Twitter" height="25" />][twitter]
-[<img src="https://img.shields.io/badge/Instagram-Follow Me-282C34?labelColor=E4405F&logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram logo" title="Instagram" height="25" />][instagram]
-[<img src="https://img.shields.io/badge/Gmail-Contact Me-282C34?labelColor=EA4335&logo=Gmail&style=for-the-badge&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />][gmail]
-<br />
-[<img src="https://img.shields.io/badge/Twitch-Follow Me-282C34?labelColor=9146FF&logo=Twitch&style=for-the-badge&logoColor=white" alt="Twitch logo" title="Twitch" height="25" />][twitch]
-[<img src="https://img.shields.io/badge/Discord-!FantaCovid_19%236917-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white" alt="Discord logo" title="Discord" height="25" />][discord]
+# Hola, Soy MrFantasma - 👋
 
-### Glad to see you here! 
+## 📝 Sobre mí
 
-I am a final year student of Higher Level Technician - Programmer Analyst / Systems Analyst at the Technological University of Chile INACAP. I am someone who is always willing to learn new things and work across technologies. Currently I am dedicated to web development few times of another type.
+**!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 23 años** de edad y vivo en **BioBío, Chile**. Actualmente, cuento con una formación **Técnica en Informática**.
 
-### More about me:
-- 🤝 Open for collaborations in web development.
-- 💻 I love exploring new technologies.
-- 🎮 I love playing videogames.
-- 🌐 Visit my portfolio website for complete background and contact.
-- 📝 Checkout my Resume.
+Me encanta programar y estar al tanto de las últimas novedades tecnológicas. Aunque disfrutó tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
+
+Mi especialización se centra en el **Desarrollo de Web y Microservicios**, además de administrar servidores tanto Windows Server como Linux Server. En la actualidad, estoy inmerso en el mundo del desarrollo utilizando el framework de **Node.JS (Express.JS)** junto con los lenguajes de programación **TypeScript** y **JavaScript**.
+
+### Más información sobre mí
+
+- 🤝 Abierto a colaboraciones **Open Source** y **Proyectos Privados**.
+- 💻 Me encanta explorar nuevas tecnologías o nuevas formas de realizar las cosas.
+- 🎮 Me encanta jugar videojuegos y leer.
+- 🌐 Visita mi [portafolio](https://mrfantasma.com/) para ver el historial completo y mis contactos.
+- 📝 Ver mi [curriculum vitae](https://mrfantasma.com/).
+
+### 🌐 Redes Sociales
+
+[![X Follow](https://img.shields.io/twitter/follow/MrFantasma?labelColor=282C34&style=for-the-badge&logo=X)](https://x.com/MrFantasma)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa8hPzviP77EYuasiuq3nGw?color=FF0000&label=Subscribe%20Me%20on%20YouTube&logo=YouTube&style=for-the-badge&labelColor=282C34)](https://www.youtube.com/@Mr.Fantasma)
+[![Twitch Status](https://img.shields.io/twitch/status/mrfantasma?color=9146FF&label=Follow%20Me%20on%20Twitch&logo=Twitch&labelColor=282C34&style=for-the-badge)](https://www.twitch.tv/mrfantasma)
+
+<!-- ![Discord](https://img.shields.io/discord/idServer?color=7289DA&label=Join%20My%20Discord%20Server&logo=Discord&style=for-the-badge) -->
 
 ## 🛠 My Tech Stack
-<details>
-  <summary><b>Programming Languages</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-★★-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Java-★★-282C34?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white" alt="Java logo" title="Java" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/PHP-★★-282C34?labelColor=777BB4&logo=PHP&style=for-the-badge&logoColor=white" alt="PHP logo" title="PHP" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/CSharp-★★-282C34?labelColor=239120&logo=csharp&style=for-the-badge&logoColor=white" alt="C#" title="C#" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Python-Now Learning 2021-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python logo" title="Python" height="25" /></a>
-</details>
-<details>
-  <summary><b>Frontend Development</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-★★★-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-★★-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white" alt="CSS logo" title="CSS" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-★★-282C34?labelColor=7952B3&logo=Bootstrap&style=for-the-badge&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></a>
-</details>
-<details>
-  <summary><b>Backend Developement</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/Node.JS-★★-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></a>
-</details>
-<details>
-  <summary><b>Databases</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-★★-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/MariaDB-★★-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white" alt="MariaDB logo" title="MariaDB" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></a>
-</details>
-<details>
-  <summary><b>Backend as a Service (BaaS)</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-★-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=black" alt="Firebase logo" title="Firebase" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Heroku-★★-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white" alt="Heroku logo" title="Heroku" height="25" /></a>
-</details>
-<details>
-  <summary><b>Tools</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/VS%20Code-★★★-282C34?labelColor=007ACC&logo=visual-studio-code&style=for-the-badge&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-★★★-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white" alt="GitHub logo" title="GitHub" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-★★-282C34?labelColor=1B6AC6&logo=Apache-NetBeans-IDE&style=for-the-badge&logoColor=white" alt="NetBeans logo" title="NetBeans" height="25" /></a>
-</details>
-<details>
-  <summary><b>Other</b></summary>
-  <a href="#"><img src="https://img.shields.io/badge/Git-★★★-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="Git logo" title="Git" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Arch Linux-★★-282C34?labelColor=1793D1&logo=Arch Linux&style=for-the-badge&logoColor=white" alt="Arch Linux logo" title="Arch Linux" height="25" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/Windows-★★-282C34?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white" alt="Windows logo" title="Windows" height="25" /></a>
-</details>
 
-## ℹ️  Github Info
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&locale=en&hide_border=true" /></a>
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&show_icons=true&locale=en&layout=compact&langs_count=4&hide_border=true&hide=c" /></a>
-</details>
-<details>
-  <summary><b>🔥 Github Streaks</b></summary>
-  <a href="#"><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fantacovid-19" alt="fantacovid-19" /></p></a>
-</details>
-<details>
-  <summary><b>🏆 Github Achievements</b></summary>
-   <a href="#"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=fantacovid-19&margin-w=5" alt="fantacovid-19" /></p></a>
-</details>
+### Front-End Developement
 
-## 💻 Coding activity
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+[![HTML5 Logo](https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](#front-end-developement)
+[![JavaScript Logo](https://img.shields.io/badge/JavaScript-282C34?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=white)](#front-end-developement)
+[![CSS3 Logo](https://img.shields.io/badge/CSS3-282C34?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](#front-end-developement)
 
-```text
-🌞 Morning    39 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.23% 
-🌆 Daytime    77 commits     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.64% 
-🌃 Evening    5 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.13% 
-🌙 Night      0 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.0%
+### Front-End Frameworks
 
-```
+[![Astro Logo](https://img.shields.io/badge/Astro-282C34?labelColor=BC52EE&logo=Astro&style=for-the-badge&logoColor=white)](#front-end-frameworks)
+[![React.JS Logo](https://img.shields.io/badge/React.JS-282C34?labelColor=61DAFB&logo=React&style=for-the-badge&logoColor=white)](#front-end-frameworks)
 
+### Back-End Developement
 
-📊 **This Week I Spent My Time On** 
+[![TypeScript Logo](https://img.shields.io/badge/TypeScript-282C34?labelColor=3178C6&logo=TypeScript&style=for-the-badge&logoColor=white)](#back-end-developement)
+[![Node.JS Logo](https://img.shields.io/badge/Node.JS-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white)](#back-end-developement)
+[![CSharp Logo](https://img.shields.io/badge/.Net-282C34?labelColor=339933&logo=.net&style=for-the-badge&logoColor=white)](#back-end-developement)
 
-```text
-⌚︎ Time Zone: America/Santiago
+[![Python Logo](https://img.shields.io/badge/Python-282C34?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](#back-end-developement)
+[![Java](https://img.shields.io/badge/Java-282C34?labelColor=007396&logo=Java&style=for-the-badge&logoColor=white)](#back-end-developement)
 
-💬 Programming Languages: 
-JavaScript               6 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   86.09% 
-HTML                     29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.43% 
-CSS                      17 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.89% 
-JSON                     14 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.29% 
-Markdown                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.24%
+### Back-End Frameworks
 
-🔥 Editors: 
-VS Code                  7 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+[![Express.JS Logo](https://img.shields.io/badge/Express.JS-282C34?labelColor=000000&logo=Express&style=for-the-badge&logoColor=white)](#back-end-developement)
+[![Spring Boot Logo](https://img.shields.io/badge/Spring%20Boot-282C34?labelColor=6DB33F&logo=Spring%20Boot&style=for-the-badge&logoColor=white)](#back-end-developement)
 
-💻 Operating System: 
-Windows                  7 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+### Databases
 
-```
+[![MariaDB Logo](https://img.shields.io/badge/MariaDB-282C34?labelColor=003545&logo=MariaDB&style=for-the-badge&logoColor=white)](#databases)
+[![MySQL Logo](https://img.shields.io/badge/MySQL-282C34?labelColor=4479A1&logo=MySQL&style=for-the-badge&logoColor=white)](#databases)
+[![MongoDB Logo](https://img.shields.io/badge/MongoDB-282C34?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](#databases)
 
+[![SQLite Logo](https://img.shields.io/badge/SQLite-282C34?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](#databases)
+[![Posgress SQL Logo](https://img.shields.io/badge/PostgreSQL-282C34?labelColor=4169E1&logo=postgresql&style=for-the-badge&logoColor=white)](#databases)
 
- Last Updated on 09/10/2021
-<!--END_SECTION:waka-->
+### Database ORM
 
-[twitter]: https://twitter.com/MrFantasma
-[youtube]: https://www.youtube.com/channel/UCa8hPzviP77EYuasiuq3nGw?view_as=subscriber
-[twitch]: https://www.twitch.tv/mrfantasma
-[instagram]: https://www.instagram.com/mrfantasma_/
-[discord]: https://discordapp.com/users/311330684620898304/
-[gmail]: mailto:mrfantasmayt@gmail.com
+[![Prisma Logo](https://img.shields.io/badge/Prisma-282C34?labelColor=2D3748&logo=prisma&style=for-the-badge&logoColor=white)](#database-orm)
+[![Sequelize Logo](https://img.shields.io/badge/Sequelize-282C34?labelColor=52B0E7&logo=Sequelize&style=for-the-badge&logoColor=white)](#database-orm)
+
+### DevOps
+
+[![Git Logo](https://img.shields.io/badge/Git-282C34?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white)](#devops)
+[![GitHub Logo](https://img.shields.io/badge/GitHub-282C34?labelColor=181717&logo=GitHub&style=for-the-badge&logoColor=white)](#devops)
+[![GitHub Actions Logo](https://img.shields.io/badge/GitHub%20Actions-282C34?labelColor=2088FF&logo=GitHub%20Actions&style=for-the-badge&logoColor=white)](#devops)
+
+[![Docker Logo](https://img.shields.io/badge/Docker-282C34?labelColor=2496ED&logo=Docker&style=for-the-badge&logoColor=white)](#devops)
+
+### Cloud
+
+[![Heroku Logo](https://img.shields.io/badge/Heroku-282C34?labelColor=430098&logo=Heroku&style=for-the-badge&logoColor=white)](#cloud)
+[![Amazon AWS Logo](https://img.shields.io/badge/Amazon%20AWS-282C34?labelColor=232F3E&logo=amazonwebservices&style=for-the-badge&logoColor=white)](#cloud)
+[![Google Cloud Logo](https://img.shields.io/badge/Google%20Cloud-282C34?labelColor=4285F4&logo=Google%20Cloud&style=for-the-badge&logoColor=white)](#cloud)
+
+[![Firebase Logo](https://img.shields.io/badge/Firebase-282C34?labelColor=FFCA28&logo=Firebase&style=for-the-badge&logoColor=white)](#cloud)
+
+### Testing
+
+[![Jest Logo](https://img.shields.io/badge/Jest-282C34?labelColor=C21325&logo=Jest&style=for-the-badge&logoColor=white)](#testing)
+
+### IDE
+
+[![Visual Studio Code Logo](https://img.shields.io/badge/Visual%20Studio%20Code-282C34?labelColor=007ACC&logo=Visual%20Studio%20Code&style=for-the-badge&logoColor=white)](#ide)
+[![IntelliJ IDEA Logo](https://img.shields.io/badge/IntelliJ%20IDEA-282C34?labelColor=000000&logo=IntelliJ%20IDEA&style=for-the-badge&logoColor=white)](#ide)
+
+### Design
+
+[![Figma Logo](https://img.shields.io/badge/Figma-282C34?labelColor=F24E1E&logo=Figma&style=for-the-badge&logoColor=white)](#design)
+[![Adobe XD Logo](https://img.shields.io/badge/Adobe%20XD-282C34?labelColor=FF61F6&logo=Adobe%20XD&style=for-the-badge&logoColor=white)](#design)
+
+### Tools
+
+[![Postman Logo](https://img.shields.io/badge/Postman-282C34?labelColor=FF6C37&logo=Postman&style=for-the-badge&logoColor=white)](#tools)
+[![Insomnia Logo](https://img.shields.io/badge/Insomnia-282C34?labelColor=5849BE&logo=Insomnia&style=for-the-badge&logoColor=white)](#tools)
+[![Notion Logo](https://img.shields.io/badge/Notion-282C34?labelColor=000000&logo=Notion&style=for-the-badge&logoColor=white)](#tools)
+
+[![Slack Logo](https://img.shields.io/badge/Slack-282C34?labelColor=4A154B&logo=Slack&style=for-the-badge&logoColor=white)](#tools)
+[![Discord Logo](https://img.shields.io/badge/Discord-282C34?labelColor=7289DA&logo=Discord&style=for-the-badge&logoColor=white)](#tools)
+[![GitKraken Logo](https://img.shields.io/badge/GitKraken-282C34?labelColor=179287&logo=GitKraken&style=for-the-badge&logoColor=white)](#tools)
+
+### OS
+
+[![Windows Logo](https://img.shields.io/badge/Windows-282C34?labelColor=0078D6&logo=Windows&style=for-the-badge&logoColor=white)](#os)
+[![Ubuntu Logo](https://img.shields.io/badge/Ubuntu-282C34?labelColor=E95420&logo=Ubuntu&style=for-the-badge&logoColor=white)](#os)
+[![Arch Linux Logo](https://img.shields.io/badge/Arch%20Linux-282C34?labelColor=1793D1&logo=Arch%20Linux&style=for-the-badge&logoColor=white)](#os)
+
+### Other
+
+[![Markdown Logo](https://img.shields.io/badge/Markdown-282C34?labelColor=000000&logo=Markdown&style=for-the-badge&logoColor=white)](#other)
+[![JSON Logo](https://img.shields.io/badge/JSON-282C34?labelColor=000000&logo=JSON&style=for-the-badge&logoColor=white)](#other)
+[![YAML Logo](https://img.shields.io/badge/YAML-282C34?labelColor=000000&logo=YAML&style=for-the-badge&logoColor=white)](#other)
+
+[![NPM Logo](https://img.shields.io/badge/NPM-282C34?labelColor=CB3837&logo=NPM&style=for-the-badge&logoColor=white)](#other)
+[![Yarn Logo](https://img.shields.io/badge/Yarn-282C34?labelColor=2C8EBB&logo=Yarn&style=for-the-badge&logoColor=white)](#other)
+[![Prettier Logo](https://img.shields.io/badge/Prettier-282C34?labelColor=F7B93E&logo=Prettier&style=for-the-badge&logoColor=white)](#other)
+
+[![ESLint Logo](https://img.shields.io/badge/ESLint-282C34?labelColor=4B32C3&logo=ESLint&style=for-the-badge&logoColor=white)](#other)
+
+## ℹ️ Github Info
+
+### 📊 Profile Stats
+
+[![FantaCovid-19's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&theme=radical)](#-profile-stats)
+
+### 📊 Most Used Languages
+
+[![FantaCovid-19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantacovid-19&layout=compact&theme=radical)](#-most-used-languages)
+
+### 📊 Streak Stats
+
+[![FantaCovid-19's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantacovid-19&theme=radical)](#-streak-stats)
+
+### 📊 Achievements
+
+[![FantaCovid-19's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fantacovid-19&theme=radical)](#-achievements)
+
+### 📊 Wakatime Stats
+
+[![FantaCovid-19's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFantasma&theme=radical&layout=compact&langs_count=6&custom_title=My%20Wakatime%20Stats)](#-wakatime-stats)
