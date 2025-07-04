@@ -1,20 +1,19 @@
 # ¡Hi!, Soy MrFantasma - 👋
 
-## 📝 About Me
+## 📝 Sobre mí
 
-**!Hola! 👋**, Mi nombre es **MrFantasma** y soy un **Programador y Soporte TI de 23 años** de edad y vivo en **BioBío, Chile**. Actualmente, cuento con una formación **Técnica en Informática**.
+**!Hola! 👋**
+Soy **MrFantasma**, un **desarrollador Back-End y técnico en soporte TI** de 24 años. Tengo formación en **Técnico en Informática** y una fuerte pasión por la programación y las tecnologías emergentes.
 
-Me encanta programar y estar al tanto de las últimas novedades tecnológicas. Aunque disfrutó tanto del **Front-End** como del **Back-End**, mi corazón se inclina más hacia el **Back-End**.
+Aunque disfruto trabajando tanto en el **Front-End** como en el **Back-End**, me especializo principalmente en el desarrollo **Back-End**, con un enfoque particular en el **desarrollo de aplicaciones web y escritorio**.
 
-Mi especialización se centra en el **Desarrollo de Web y Microservicios**, además de administrar servidores tanto Windows Server como Linux Server. En la actualidad, estoy inmerso en el mundo del desarrollo utilizando el framework de **Node.JS (Express.JS)** junto con los lenguajes de programación **TypeScript** y **JavaScript**.
+### Más sobre mí
 
-### Más información sobre mí
-
-- 🤝 Abierto a colaboraciones **Open Source** y **Proyectos Privados**.
-- 💻 Me encanta explorar nuevas tecnologías o nuevas formas de realizar las cosas.
-- 🎮 Me encanta jugar videojuegos y leer.
-- 🌐 Visita mi [portafolio](https://mrfantasma.com/) para ver el historial completo y mis contactos.
-- 📝 Ver mi [curriculum vitae](https://mrfantasma.com/).
+- 🤝 Abierto a colaborar en proyectos **Open Source** y **privados**.
+- 💻 Siempre en busca de nuevas tecnologías y formas innovadoras de resolver problemas.
+- 🎮 Aficionado a los videojuegos y la lectura.
+- 🌐 Visita mi [portafolio](https://mrfantasma.com/) para conocer más sobre mi trabajo.
+- 📝 Revisa mi [curriculum vitae](https://mrfantasma.com/) para más detalles.
 
 ## 🛠 My Tech Stack
 
