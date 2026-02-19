@@ -14,11 +14,6 @@ I'm **MrFantasma**, a 25 years old **Back-End Developer** from Chile. I have a s
 [![TypeScript Logo](https://img.shields.io/badge/TypeScript-282C34?labelColor=3178C6&logo=TypeScript&style=for-the-badge&logoColor=white)](#languages-development)
 [![CSharp Logo](https://img.shields.io/badge/Csharp-282C34?labelColor=512BD4&logo=.net&style=for-the-badge&logoColor=white)](#languages-development)
 
-### Web Development
-
-[![CSS3 Logo](https://img.shields.io/badge/CSS-282C34?labelColor=1572B6&logo=CSS&style=for-the-badge&logoColor=white)](#web-development)
-[![HTML5 Logo](https://img.shields.io/badge/HTML5-282C34?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](#web-development)
-
 ### Frameworks
 
 [![Node.js Logo](https://img.shields.io/badge/Node.js-282C34?labelColor=339933&logo=Node.js&style=for-the-badge&logoColor=white)](#frameworks)
