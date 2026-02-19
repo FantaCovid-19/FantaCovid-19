@@ -43,3 +43,9 @@ I'm **MrFantasma**, a 25 years old **Back-End Developer** from Chile. I have a s
 [![ESLint Logo](https://img.shields.io/badge/ESLint-282C34?labelColor=4B32C3&logo=ESLint&style=for-the-badge&logoColor=white)](#tools)
 [![Swagger Logo](https://img.shields.io/badge/Swagger-282C34?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=white)](#tools)
 [![Vitest Logo](https://img.shields.io/badge/Vitest-282C34?labelColor=00FF74&logo=Vitest&style=for-the-badge&logoColor=white)](#tools)
+
+## 🔎 Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
