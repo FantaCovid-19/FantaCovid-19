@@ -47,5 +47,79 @@ I'm **MrFantasma**, a 25 years old **Back-End Developer** from Chile. I have a s
 ## 🔎 Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2051%20mins-blue?style=flat)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                121 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌆 Daytime                132 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌃 Evening                205 commits         ██████████░░░░░░░░░░░░░░░   41.58 % 
+🌙 Night                  35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Tuesday                  76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Wednesday                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Thursday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Friday                   125 commits         ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Saturday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Santiago
+
+💬 Programming Languages: 
+JSON                     2 hrs               ██████████░░░░░░░░░░░░░░░   39.17 % 
+TypeScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+JavaScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+TSConfig                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Utilities                4 hrs 7 mins        ████████████████████░░░░░   80.14 % 
+Discord                  1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+
+💻 Operating System: 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             █████████████████░░░░░░░░   66.67 % 
+TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/FantaCovid-19/FantaCovid-19/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/02/2026 21:16:45 UTC
 <!--END_SECTION:waka-->
