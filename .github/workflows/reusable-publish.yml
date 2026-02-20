@@ -1,4 +1,4 @@
-name: Publish
+name: Publish Project
 
 on:
   workflow_call:
@@ -7,8 +7,8 @@ on:
         description: The name of the project to publish
         required: true
         type: string
-      node-version:
-        description: The version of Node.js to use
+      pnpm-version:
+        description: The version of pnpm to use
         required: false
         default: 10
         type: number
@@ -22,6 +22,13 @@ on:
         required: false
         default: false
         type: boolean
+    secrets:
+      GH_TOKEN:
+        description: GitHub token with permissions to push to the repository
+        required: true
+      NPM_TOKEN:
+        description: NPM token with permissions to publish packages
+        required: true
 
 jobs:
   publish:
@@ -42,7 +49,7 @@ jobs:
       - name: Setup Pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: ${{ inputs.node-version }}
+          version: ${{ inputs.pnpm-version }}
 
       - name: Install dependencies
         run: pnpm install
@@ -62,13 +69,13 @@ jobs:
         run: pnpm build
 
       - name: Bump Version & Publish
-        run: pnpm run bump
         working-directory: ${{ inputs.working-directory }}
+        run: pnpm run bump
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Publish to npm
-        run: pnpm publish --no-git-checks --access public
         working-directory: ${{ inputs.working-directory }}
+        run: pnpm publish --no-git-checks --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
