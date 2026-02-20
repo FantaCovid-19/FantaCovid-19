@@ -1,0 +1,74 @@
+name: Publish
+
+on:
+  workflow_call:
+    inputs:
+      project-name:
+        description: The name of the project to publish
+        required: true
+        type: string
+      node-version:
+        description: The version of Node.js to use
+        required: false
+        default: 10
+        type: number
+      working-directory:
+        description: The working directory for the publish command
+        required: false
+        default: .
+        type: string
+      build:
+        description: Whether to run the build command before publishing
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  publish:
+    name: Publish ${{ inputs.project-name }}
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup Pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ inputs.node-version }}
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Configure Git
+        run: |
+          git remote set-url origin "https://${GITHUB_TOKEN}:x-oauth-basic@github.com/${GITHUB_REPOSITORY}.git"
+          git config --local user.email "${GITHUB_EMAIL}"
+          git config --local user.name "${GITHUB_USER}"
+        env:
+          GITHUB_USER: github-actions[bot]
+          GITHUB_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN  }}
+
+      - name: Build project
+        if: ${{ inputs.build }}
+        run: pnpm build
+
+      - name: Bump Version & Publish
+        run: pnpm run bump
+        working-directory: ${{ inputs.working-directory }}
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Publish to npm
+        run: pnpm publish --no-git-checks --access public
+        working-directory: ${{ inputs.working-directory }}
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
