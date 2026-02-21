@@ -46,10 +46,17 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Setup Pnpm
-        uses: pnpm/action-setup@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
         with:
-          version: ${{ inputs.pnpm-version }}
+          node-version: 22
+          cache: "pnpm"
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Install pnpm
+        run: corepack prepare pnpm@${{ inputs.pnpm-version }} --activate
 
       - name: Install dependencies
         run: pnpm install
@@ -77,8 +84,8 @@ jobs:
       - name: Publish to npm
         working-directory: ${{ inputs.working-directory }}
         run: |
-          pnpm config set npmAuthToken ${NODE_AUTH_TOKEN}
-          pnpm config set registry https://registry.npmjs.org/
+          npm config set npmAuthToken ${NODE_AUTH_TOKEN}
+          npm config set registry https://registry.npmjs.org/
 
           pnpm publish --access public
         env:
