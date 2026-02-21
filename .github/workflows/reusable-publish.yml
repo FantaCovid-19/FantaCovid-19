@@ -76,6 +76,10 @@ jobs:
 
       - name: Publish to npm
         working-directory: ${{ inputs.working-directory }}
-        run: pnpm publish --no-git-checks --access public
+        run: |
+          pnpm config set npmAuthToken ${NODE_AUTH_TOKEN}
+          pnpm config set registry https://registry.npmjs.org/
+
+          pnpm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
