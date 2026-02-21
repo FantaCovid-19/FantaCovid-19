@@ -14,7 +14,7 @@ on:
         type: number
       working-directory:
         description: The working directory for the publish command
-        required: false
+        required: true
         default: .
         type: string
       build:
