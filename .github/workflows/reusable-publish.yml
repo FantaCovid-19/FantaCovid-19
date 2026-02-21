@@ -12,6 +12,11 @@ on:
         required: false
         default: "10"
         type: string
+      node-version:
+        description: The version of Node.js to use
+        required: false
+        default: 22
+        type: number
       working-directory:
         description: The working directory for the publish command
         required: true
@@ -19,6 +24,11 @@ on:
         type: string
       build:
         description: Whether to run the build command before publishing
+        required: false
+        default: false
+        type: boolean
+      skip-version-bump:
+        description: Whether to skip version bumping and git tagging
         required: false
         default: false
         type: boolean
@@ -34,6 +44,8 @@ jobs:
   publish:
     name: Publish ${{ inputs.project-name }}
     runs-on: ubuntu-latest
+
+    if: github.repository_owner == 'fantacovid-19'
 
     permissions:
       contents: write
@@ -54,7 +66,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version: ${{ inputs.node-version }}
           registry-url: https://registry.npmjs.org/
           cache: "pnpm"
 
@@ -72,12 +84,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN  }}
 
       - name: Build project
-        if: ${{ inputs.build }}
+        if: inputs.build
         run: pnpm build
 
       - name: Bump Version & Publish
         working-directory: ${{ inputs.working-directory }}
-        run: pnpm run bump
+        run: |
+          if [ "${{inputs.skip-version-bump}}" = "true" ]; then
+            pnpm run bump --skip-automatic-bump
+          else
+            pnpm run bump
+          fi
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
