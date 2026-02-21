@@ -10,8 +10,8 @@ on:
       pnpm-version:
         description: The version of pnpm to use
         required: false
-        default: 10
-        type: number
+        default: "10"
+        type: string
       working-directory:
         description: The working directory for the publish command
         required: true
