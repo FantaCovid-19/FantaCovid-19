@@ -1,0 +1,50 @@
+name: Run Pnpm jobs
+
+on:
+  workflow_call:
+    inputs:
+      pnpm-version:
+        description: The version of pnpm to use
+        required: false
+        default: "10"
+        type: string
+      node-version:
+        description: The version of Node.js to use
+        required: false
+        default: 22
+        type: number
+      script:
+        description: The pnpm script to run
+        required: true
+        type: string
+    secrets:
+      NPM_TOKEN:
+        description: NPM token with permissions to publish packages
+        required: true
+
+jobs:
+  run-pnpm-script:
+    name: Run pnpm ${{ inputs.script }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Setup Pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: ${{ inputs.pnpm-version }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: ${{ inputs.node-version }}
+          registry-url: https://registry.npmjs.org/
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
