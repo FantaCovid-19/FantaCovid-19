@@ -5,7 +5,7 @@
 ### About Me
 
 💼 **Current Role:** Freelance Back-End Developer <br />
-🎓 **Education:** Technical Degree in Computer Science, graduated and studied in Chile<br />
+🎓 **Education:** Technical Degree in Computer Science, graduated and studied in Chile <br />
 💡 **Interests:** Programming, learning, videogames <br />
 🌱 **Current Learning:** Rust <br/>
 
@@ -17,7 +17,7 @@
 
 ### 📫 Links
 
-- website: ~~[https://mrfantasma.com](https://mrfantasma.com)~~ (coming soon)
+- Website: ~~[https://mrfantasma.com](https://mrfantasma.com)~~ (coming soon)
 - Twitter: [@MrFantasma](https://x.com/MrFantasma)
 - Discord: [@MrFantasma](https://discord.com/users/311330684620898304)
 - Mail: [contact@mrfantasma.com](mailto:contact@mrfantasma.com)
@@ -26,7 +26,7 @@
 
 | Stats | Languages |
 |-------|-----------|
-| ![](https://grs.quantumly.dev/api/?username=fantacovid-19&show_icons=true&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) | ![](https://grs.quantumly.dev/api/top-langs/?username=fantacovid-19&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true) |
 
 > Provided by [`GitHub Readme Stats`]
 
