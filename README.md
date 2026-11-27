@@ -30,4 +30,4 @@
 
 > Provided by [`GitHub Stats Extended`]
 
-[`GitHub Stats Extended]: https://github.com/stats-organization/github-stats-extended
+[`GitHub Stats Extended`]: https://github.com/stats-organization/github-stats-extended
