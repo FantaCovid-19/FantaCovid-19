@@ -26,8 +26,8 @@
 
 | Stats | Languages |
 |-------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=fantacovid-19&show_icons=true&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=fantacovid-19&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true) |
+| ![](https://github-stats-extended.vercel.app/api?username=fantacovid-19&show_icons=true&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true) | ![](https://github-stats-extended.vercel.app/api/top-langs?username=fantacovid-19&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true) |
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by [`GitHub Stats Extended`]
 
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[`GitHub Readme Stats`]: https://github.com/stats-organization/github-stats-extended
